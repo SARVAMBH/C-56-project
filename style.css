@@ -1,0 +1,14 @@
+body {
+    background-color: bisque;
+    color: dimgrey;
+    font-size: 20px;
+    text-align: center;
+    border-color: crimson;
+    border-style: dashed;
+    border-width: thin;
+    border-radius: 50px;
+}
+img{
+    height:150px;
+    width:150px;
+}
